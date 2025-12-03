@@ -11,7 +11,7 @@ I'm starting to develop a love for coding and building projects using modern web
 - **Tools:** Git, VS Code, GitHub  
 
 ## 📊 GitHub Stats
-![Asanti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajames2829&show_icons=true&count_private=true&theme=radical)
+![Asanti's GitHub Stats] (https://github-readme-stats.vercel.app/api?username=ajames2829&show_icons=true&count_private=true&theme=radical)
 
 ## 🌐 Connect with Me
 - [CodePen](https://codepen.io/ajames2829) 
