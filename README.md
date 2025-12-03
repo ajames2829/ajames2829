@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Asanti!
 
 ## 🧑‍💻 About Me
-Hi! I'm **Asanti**, a passionate learner in the field of graphic information technology.  
+Hi! I'm a passionate learner in the field of graphic information technology.  
 I'm currently studying **Full Stack Web Development** 
 
 I'm starting to develop a love for coding and building projects using modern web technologies.   
