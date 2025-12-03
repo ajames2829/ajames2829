@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I'm Asanti!
 
-<!--
-**ajames2829/ajames2829** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 About Me
+Hi! I'm **Asanti**, a passionate learner in the field of graphic information technology.  
+I'm currently studying **Full Stack Web Development** 
 
-Here are some ideas to get you started:
+I'm starting to develop a love for coding and building projects using modern web technologies.   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Skills
+- **Languages:** HTML, CSS    
+- **Tools:** Git, VS Code, GitHub  
+
+## 📊 GitHub Stats
+![Asanti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+## 🌐 Connect with Me
+- [CodePen](https://codepen.io/ajames2829) 
